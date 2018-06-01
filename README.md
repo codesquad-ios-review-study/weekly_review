@@ -15,3 +15,5 @@
 * [18년 4월 20일 일지](ReviewDiary/180420_diary.md)
 * [18년 5월 11일 일지](ReviewDiary/180511_diary.md)
 * [18년 5월 18일 일지](ReviewDiary/180518_diary.md)
+* [18년 5월 25일 일지](ReviewDiary/180528_diary.md)
+* [18년 6월 1일 일지](ReviewDiary/180601_diary.md)
