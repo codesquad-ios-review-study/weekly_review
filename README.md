@@ -28,4 +28,4 @@
 * [18년 6월 29일 일지](ReviewDiary/180629_diary.md)
 * [18년 7월 13일 일지](ReviewDiary/180713_diary.md)
 * [18년 10월 5일 일지](ReviewDiary/181005_diary.md.md)
-
+* [19년 1월 8일 일지](ReviewDiary/190108_diary.md)
